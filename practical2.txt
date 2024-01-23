@@ -1,0 +1,2 @@
+Area of rectangle is: 600
+Perimeter of rectangle is:  100
